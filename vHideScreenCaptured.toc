@@ -1,0 +1,10 @@
+## Interface: 60100
+## Version: 60100.1
+## Title: |cffc7c7cfv|rHideScreenCaptured
+## Notes: Hides "Screen Captured" information.
+## Author: Drauer#1706 @battle.net / vforge @github
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## X-GitHub: ForgedAddons/vHideScreenCaptured
+
+main.lua
