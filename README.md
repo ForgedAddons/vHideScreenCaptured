@@ -1,4 +1,4 @@
-WoW Addon: vScreenCaptured
+WoW Addon: vHideScreenCaptured
 ========================
 
 Hides "Screen Captured" information.
